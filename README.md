@@ -5,6 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9798824-5156-4597-bc8b-8284a7a8f4f1/deploy-status)](https://app.netlify.com/sites/huddle-landing-page-with-curved-yashi/deploys)
 
 This is my solution to the [Huddle Landing Page with Curved Sections](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2) challenge on Frontend Mentor. The project focuses on building a responsive landing page with curved sections, emphasizing clean design and community-focused messaging.
 
@@ -44,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-ztoNWHWB1V)
 - [Live](https://huddle-landing-page-with-curved-yashi.netlify.app)
 
 ## My Process
